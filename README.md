@@ -1,10 +1,15 @@
-# Public archive of Hexavalent patches
+# Public archive of [Hexavalent Chromium](https://qua3k.github.io/hexavalent/) Patches
 
-Some research was done. 
+### For use in developing [Thorium](https://github.com/Alex313031/thorium) patches
+-----------------------------------------
 
-Some patches were built. 
+ &ndash; From the [original author](https://twitter.com/qua3kr/status/1459355718834864130):
 
-Some bugs were found. 
+ - Some research was done. 
 
-Some bugs were reported.
+ - Some patches were built. 
+
+ - Some bugs were found. 
+
+ - Some bugs were reported.
 
